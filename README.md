@@ -2,4 +2,4 @@
 
 ## 🌐 Live Website
 
-[Open Web Page](https://ChandruM13-cmyk.github.io/ui-ux-design/)
+[Open Web Page](https://ChandruM13.github.io/ui-ux-design/)
